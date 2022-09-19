@@ -22,3 +22,4 @@ print(s)
 | Tables  | Are | Cool |
 |:------- |:----:|----:|
 | col 3 is|right-aligned|$1600|
+|zcbra stripes|are near|$1|
