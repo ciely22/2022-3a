@@ -1,3 +1,4 @@
+```java
 CShape.java
 abstract class CShape{
   protected String color;
@@ -17,7 +18,10 @@ class CTriangle extends CShape{
     cc=c;
    }
    public void show(){
-    system.out.print("color="+color+"");
-System.out.print("area="+0.5*ca*cb);
+    System.out.print("color="+color+"");
+    System.out.print("area="+0.5*ca*cb);
   }
 }
+```
+
+
